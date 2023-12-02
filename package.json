@@ -1,6 +1,6 @@
 {
   "name": "foundryvtt-window-controls",
-  "version": "1.10.0",
+  "version": "1.10.1",
   "description": "Improves Minimized window organization, style and adds Maximize and Pin window buttons",
   "main": "windowcontrols.js",
   "scripts": {
@@ -21,12 +21,15 @@
     "minimize",
     "controls"
   ],
-  "author": "JeansenVaars (Saif Ellafi)",
+  "authors": [
+    { "name": "JeansenVaars (Saif Ellafi)" },
+    { "name": "Ross Gosling" }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saif-ellafi/foundryvtt-window-controls/issues"
+    "url": "https://github.com/RossGosling/foundryvtt-window-controls-legacy-v10/issues"
   },
-  "homepage": "https://github.com/saif-ellafi/foundryvtt-window-controls",
+  "homepage": "https://github.com/RossGosling/foundryvtt-window-controls-legacy-v10",
   "devDependencies": {
     "npm-build-zip": "^1.0.3"
   }

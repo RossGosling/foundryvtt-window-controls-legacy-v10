@@ -857,6 +857,7 @@ Hooks.once('setup', () => {
       return expectedPosition;
     }, 'WRAPPER');
   }
+  globalThis.WindowControls = WindowControls;
 })
 
 Hooks.once('init', () => {

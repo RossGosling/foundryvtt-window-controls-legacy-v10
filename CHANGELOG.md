@@ -1,3 +1,6 @@
+### 1.10.1
+* Enhancement: Expose WindowControls class with globalThis.WindowControls for Macro accessibility
+
 ### 1.10.0
 * Compatibility: Foundry V10 support
 
